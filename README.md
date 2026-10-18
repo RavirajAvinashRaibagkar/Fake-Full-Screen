@@ -152,12 +152,6 @@ Issues and pull requests are welcome. Please keep changes small and focused, and
 
 ---
 
-## License
-
-Released under the [MIT License](LICENSE).
-
----
-
 ## Author
 
 **Raviraj**
